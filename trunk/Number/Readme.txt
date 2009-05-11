@@ -1,0 +1,1 @@
+NGData.ngb should be in the excuting direcotry
